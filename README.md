@@ -5,10 +5,8 @@
 
 <br>
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="" src="Amplify_App_Completed.drawio.png">
-</picture>
+<p align="center">
+  <img src="[your_relative_path_here](https://github.com/FazeNCode/Aws_Amplify/blob/main/Amplify_App_Completed.drawio.png)" width="350" title="hover text">
+</p>
 
 ![Alt text](https://github.com/FazeNCode/Aws_Amplify/blob/main/Amplify_App_Completed.drawio.png)
