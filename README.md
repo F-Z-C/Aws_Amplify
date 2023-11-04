@@ -1,4 +1,4 @@
 # Aws_Amplify
-How to create Aws Amplify app using route53 
+<h1> How to create Aws Amplify app using route53  </h1>
 <br>
-Uploaded PNG, for easy viewability
+<h4> Uploaded PNG, for easy viewability </h4>
