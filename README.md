@@ -10,3 +10,5 @@
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
  <img alt="" src="Amplify_App_Completed.drawio.png">
 </picture>
+
+![Alt text](https://github.com/FazeNCode/Aws_Amplify/blob/main/Amplify_App_Completed.drawio.png)
