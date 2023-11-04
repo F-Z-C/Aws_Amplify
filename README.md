@@ -1,6 +1,7 @@
 # Aws_Amplify
-<h2> How to create Aws Amplify app using route53 </h2>
+<h2> How to create an Aws Amplify app with an existing repository and also connect to route53 </h2>
+
 <br>
-<h4> Uploaded .png for easy viewability </h4>
+<h6> .png for easy viewability </h6>
 
 ![Alt text](https://github.com/FazeNCode/Aws_Amplify/blob/main/Amplify_App_Completed.drawio.png)
