@@ -8,5 +8,5 @@
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="https://github.com/FazeNCode/Aws_Amplify/blob/main/Amplify_App_Completed.drawio.png">
+ <img alt="" src="https://github.com/FazeNCode/Aws_Amplify/blob/main/Amplify_App_Completed.drawio.png">
 </picture>
